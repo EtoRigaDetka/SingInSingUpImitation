@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SingInSingUpImitation</string>
+    <string name="sing_in">SINGIN</string>
+    <string name="sing_up">SINGUP</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="password">Password</string>
+    <string name="wrong_Password">Wrong Password</string>
+    <string name="exit">EXIT</string>
+    <string name="registration">registration</string>
+
+
+    //request code
+    <string name="requestCode_sing_up">1</string>
+    <string name="requestCode_sing_in">2</string>
+</resources>
